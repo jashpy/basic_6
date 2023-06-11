@@ -1,1 +1,2 @@
-# basic_6
+types of inheritance,self,init methods
+PYTHON
